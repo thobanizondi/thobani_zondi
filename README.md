@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=29B5E8&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Thobani+Zondi+👋;Data+Engineer+🚀;SQL+Database+Developer+🗄️;Cloud+Builder+☁️;Building+pipelines+that+matter+🔥" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=29B5E8&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Thobani+Zondi+👋;Data+Engineer+🚀;SQL+Database+Developer+🗄️;Cloud+Builder+☁️;Building+pipelines+that+matter+" alt="Typing SVG" />
 
 # Thobani Zondi
 ### Data Engineer · SQL Database Developer · Data Science · Cloud Builder
@@ -9,29 +9,29 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.datascienceportfol.io/thobanizondi)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thobanizondi)
 
-📍 Johannesburg, South Africa &nbsp;|&nbsp; 🎯 Open to Data Engineering roles
+Johannesburg, South Africa &nbsp;|&nbsp; 🎯 Open to Data Engineering roles
 
 </div>
 
 ---
 
-## 👨🏾‍💻 About Me
+## About Me
 
 ```text
-🏗️  I build data pipelines — from raw ingestion to analytics-ready gold.
-💡  Turning messy data into business value is what gets me up in the morning.
-🌍  Based in Johannesburg, building for the world.
-🚀  Currently exploring Snowflake, Databricks & the modern data stack.
-🎯  My next move: Data Engineering in Finance & Banking.
+I build data pipelines — from raw ingestion to analytics-ready gold.
+Turning messy data into business value is what gets me up in the morning.
+Based in Johannesburg, building for the world.
+Currently exploring Snowflake, Databricks & the modern data stack.
+My next move: Data Engineering in Finance & Banking.
 ```
 
 | | |
 |---|---|
-| 🏢 **Currently** | SQL Database Developer · Cloud Gaming & Subscription Platforms |
-| 🛠️ **Stack** | AWS · Snowflake · dbt · Apache NiFi · SQL Server · Power BI |
-| 📖 **Learning** | Snowflake SnowPro Core · Databricks · Microsoft Fabric |
-| 💬 **Ask me about** | SQL optimisation · dbt modelling · ETL pipelines · Medallion Architecture |
-| ⚡ **Fun fact** | I've built pipelines that process millions of subscriber records daily |
+|  **Currently** | SQL Database Developer · Cloud Gaming & Subscription Platforms |
+|  **Stack** | AWS · Snowflake · dbt · Apache NiFi · SQL Server · Power BI |
+|  **Learning** | Snowflake SnowPro Core · Databricks · Microsoft Fabric |
+|  **Ask me about** | SQL optimisation · dbt modelling · ETL pipelines · Medallion Architecture |
+
 
 ---
 
@@ -67,61 +67,8 @@
 
 ---
 
-## 🚀 Featured Projects
-
-<a href="https://github.com/thobanizondi/aws-dbt-snowfake-end-to-end-pipeline">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thobanizondi&repo=aws-dbt-snowfake-end-to-end-pipeline&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/thobanizondi/bank-etl-nifi-pipeline">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thobanizondi&repo=bank-etl-nifi-pipeline&theme=tokyonight&hide_border=true" />
-</a>
-
-<br><br>
-
-<a href="https://github.com/thobanizondi/social-media-data-engineering">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thobanizondi&repo=social-media-data-engineering&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/thobanizondi/insurance_analytics_pipeline">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thobanizondi&repo=insurance_analytics_pipeline&theme=tokyonight&hide_border=true" />
-</a>
-
-<br><br>
-
-<a href="https://github.com/thobanizondi/ubuntu-retail-group-migration-pipeline">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thobanizondi&repo=ubuntu-retail-group-migration-pipeline&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/thobanizondi/Logistics-Performance-Dashboard">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thobanizondi&repo=Logistics-Performance-Dashboard&theme=tokyonight&hide_border=true" />
-</a>
-
----
-
-## 📊 GitHub Stats
-
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=thobanizondi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=thobanizondi&theme=tokyonight&hide_border=true)
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thobanizondi&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 🏆 Certifications & Learning
-
-- 📘 **SnowPro Core** — In Progress
-- 📗 **Snowflake Data Engineering** — Coursera (Auditing)
-- 🎓 **Advanced Diploma** — Application Development
-
----
-
-<div align="center">
-
-*"Data is the new oil — I build the pipelines."* 🚀
-
-![Visitors](https://komarev.com/ghpvc/?username=thobanizondi&color=29B5E8&style=for-the-badge&label=PROFILE+VIEWS)
+*"Data is the new oil — I build the pipelines."* 
 
 </div>
