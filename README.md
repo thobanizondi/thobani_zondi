@@ -1,1 +1,58 @@
-# thobani_zondi
+<div align="center">
+
+# Thobani Zondi
+### Data Engineer · SQL Developer · Cloud Builder
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thobani-zondi)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.datascienceportfol.io/thobanizondi)
+
+📍 Johannesburg, South Africa &nbsp;|&nbsp; 🎯 Open to Data Engineering roles
+
+</div>
+
+---
+
+## 🙋‍♂️ About Me
+
+> Building end-to-end data pipelines that turn raw data into business value.
+
+- 💼 SQL Database Developer on cloud gaming & subscription platforms
+- 🚀 Building with **AWS · Snowflake · dbt · Apache NiFi · Power BI**
+- 🌱 Currently levelling up in **Snowflake** and **Databricks**
+- 🎯 Targeting **Data Engineering** roles in Finance & Banking
+
+---
+
+## 🛠️ Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-569A31?style=flat-square&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Apache NiFi](https://img.shields.io/badge/NiFi-728E9B?style=flat-square&logo=apache&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=thobanizondi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_title=true)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thobanizondi&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+
+*"Data is the new oil — I build the pipelines."* 🚀
+
+![Visitors](https://komarev.com/ghpvc/?username=thobanizondi&color=29B5E8&style=flat-square)
+
+</div>
