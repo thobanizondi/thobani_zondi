@@ -1,7 +1,7 @@
 <div align="center">
 
 # Thobani Zondi
-### Data Engineer · SQL Developer · Cloud Builder
+### Data Engineer · SQL Database Developer · Data Science  · Cloud Builder 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thobani-zondi)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.datascienceportfol.io/thobanizondi)
@@ -12,18 +12,18 @@
 
 ---
 
-## 🙋‍♂️ About Me
+## About Me
 
 > Building end-to-end data pipelines that turn raw data into business value.
 
-- 💼 SQL Database Developer on cloud gaming & subscription platforms
-- 🚀 Building with **AWS · Snowflake · dbt · Apache NiFi · Power BI**
-- 🌱 Currently levelling up in **Snowflake** and **Databricks**
-- 🎯 Targeting **Data Engineering** roles in Finance & Banking
+- SQL Database Developer on cloud gaming & subscription platforms
+- Building with **AWS · Snowflake · dbt · Apache NiFi · Power BI**
+- Currently levelling up in **Snowflake** and **Databricks**
+- Targeting **Data Engineering** roles in Finance & Banking
 
 ---
 
-## 🛠️ Stack
+## Stack
 
 **Data & Pipelines**
 
@@ -52,21 +52,9 @@
 
 ---
 
-## 📊 GitHub Stats
-
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=thobanizondi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_title=true)
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thobanizondi&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-<div align="center">
-
-*"Data is the new oil — I build the pipelines."* 🚀
+*"Data is the new oil - I build the pipelines."* 🚀
 
 ![Visitors](https://komarev.com/ghpvc/?username=thobanizondi&color=29B5E8&style=flat-square)
 
