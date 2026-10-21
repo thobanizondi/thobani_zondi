@@ -20,12 +20,12 @@ My experience combines production SQL database development with hands-on data en
 
 I am particularly interested in building scalable data solutions that support better reporting, data quality, and business decision-making, especially within financial services and banking.
 
-💼 **Current Role:** SQL Database Developer working with production subscription and online gaming platforms
-⚙️ **Data Engineering:** Data ingestion, ETL/ELT pipelines, data transformation, orchestration, and data modelling
-🗄️ **Database Development:** SQL Server, Azure SQL, T-SQL, query optimisation, data validation, and reconciliation
-☁️ **Cloud & Data Platforms:** Azure, AWS S3, Databricks, Microsoft Fabric, and Snowflake
-📊 **Analytics:** Power BI, DAX, analytics-ready datasets, and business reporting
-🎯 **Career Focus:** Data Engineering, Analytics Engineering, and Data Platform Development
+-💼 **Current Role:** SQL Database Developer working with production subscription and online gaming platforms
+-⚙️ **Data Engineering:** Data ingestion, ETL/ELT pipelines, data transformation, orchestration, and data modelling
+-🗄️ **Database Development:** SQL Server, Azure SQL, T-SQL, query optimisation, data validation, and reconciliation
+-☁️ **Cloud & Data Platforms:** Azure, AWS S3, Databricks, Microsoft Fabric, and Snowflake
+-📊 **Analytics:** Power BI, DAX, analytics-ready datasets, and business reporting
+-🎯 **Career Focus:** Data Engineering, Analytics Engineering, and Data Platform Development
 
 ## 🛠️ Technical Skills
 
