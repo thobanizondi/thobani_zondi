@@ -84,6 +84,6 @@ Explore my pinned repositories below for the project implementations, technologi
 
 *Building reliable data solutions through SQL, cloud engineering, and practical implementation.*
 
-*"Data is the new oil — I build the pipelines."* 
+*"Data is the new oil - I build the pipelines."* 
 
 </div>
